@@ -93,8 +93,8 @@ Target variable:
 
 1. Clone the repository:
 ```
-git clone <your-repo-link>
-cd End-to-End-ML-Project
+git clone https://github.com/katarinatomasevic/ml-project.git
+cd mlproject
 ```
 2. Create and activate environment
 ```
